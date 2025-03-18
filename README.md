@@ -76,6 +76,7 @@ Usage of ja3proxy:
 | Chrome | 96 |
 | Chrome | 102 |
 | Chrome | 106 |
+| Chrome | 131 |
 | iOS | 12.1 |
 | iOS | 13 |
 | iOS | 14 |
